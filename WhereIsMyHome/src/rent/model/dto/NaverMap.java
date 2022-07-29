@@ -30,8 +30,8 @@ public class NaverMap{
 	
 	public void showMap() {
 		// TODO Auto-generated method stub
-		String clientId = "x7hfe5pbt3";
-		String clientSecret = "BgegspgMDNjYy0ZMKLyesFUgWxA1tqDJDo1viq9x";
+		String clientId = "api 토큰 아이디";
+		String clientSecret = "api 토큰 비밀번호";
 		AddressInfo ai = null;		
 		
 		try {
